@@ -1,11 +1,20 @@
-
 # Seher Event website: wedding planning, destination celebrations and corporate events in one visual experience
 
 **Seher Event is a Pune-based wedding and event management business whose [website](https://seherevent.com/) is featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The project presents wedding décor, destination celebrations, home functions, hospitality and guest management, furniture rental and corporate events as distinct services, while using large event visuals, service-specific content and straightforward enquiries to help families and business clients find the right support.**
 
-![Seher Event website before and after design presentation](images/seher-event-before-after-showcase.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/seher-event-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/seher-event-website-mockup.webp" alt="Seher Event website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Original saved Tech Conversion portfolio artwork comparing an older-looking website concept with a richer proposed redesign. It is a promotional comparison, not independent evidence of dated production versions or measured improvement.*
+<p align="center">
+  <a href="https://seherevent.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -17,6 +26,7 @@
 | **Portfolio attribution** | [Tech Conversion](https://techconversion.tech/portfolio) |
 | **Project category** | B2C and B2B event-management services website |
 | **Core audiences** | Wedding families, couples, corporate event teams and venue/event organisers |
+| **GitHub repository** | [TechConversionOfficial/Seher-Event-](https://github.com/TechConversionOfficial/Seher-Event-) |
 | **Website technology** | Full production stack and enquiry-delivery integrations not independently audited |
 
 ## About the business
@@ -34,72 +44,91 @@ The business describes itself as active **since 2015** on its About page, though
 
 ## The problem
 
-An event management company has to inspire confidence **and** answer practical questions. A couple choosing a wedding decorator is looking for a style, real examples of work and support for several rituals. A corporate buyer wants to know whether the team understands brand presentation, logistics, stage setup and guest experience. A client needing only sofas, tables or a buffet counter is not looking for an end-to-end wedding-planning package.
+An event-management company has to inspire confidence **and** answer practical questions. A couple choosing a wedding decorator is looking for a style, real examples of work and support for several rituals. A corporate buyer wants to know whether the team understands brand presentation, logistics, stage setup and guest experience. A client needing only sofas, tables or a buffet counter is not looking for an end-to-end wedding-planning package.
 
-When all these services sit under one broad "event management" message, visitors can struggle to find relevant work or understand what to enquire about. The digital experience needs to separate the different occasions without splitting the brand into unrelated websites. It also needs strong images, a manageable information hierarchy, mobile-friendly browsing and a simple route to contact the planning team.
+When all these services sit under one broad “event management” message, visitors can struggle to find relevant work or understand what to enquire about. The digital experience needs to separate the different occasions without splitting the brand into unrelated websites. It also needs strong imagery, manageable information hierarchy, mobile-friendly browsing and a simple route to contact the planning team.
 
-The saved before-and-after portfolio artwork illustrates this shift in visual direction. It is **not** a dated technical audit of the previous production website.
+The supplied Tech Conversion media now supports a direct visual comparison between an earlier and redesigned homepage presentation. It does not by itself establish increased bookings, enquiries or conversion rates.
 
 ## How the website presents the experience
 
-These points describe the published site's visible structure and the saved design presentations; they do not imply that every concept image is the final live build or that untested integrations are working.
+These points describe the published site's visible structure and the supplied project media. They do not imply that every interface element has been independently tested or that promotional claims represent measured results.
 
-1. **Start with a clear event-focused headline.** The homepage immediately positions Seher Event as a wedding planner in Pune, while mentioning destination celebrations, corporate events and furniture rentals.
-2. **Separate six main service journeys.** Wedding & Celebration Décor, Destination Wedding Décor, Wedding Home Décor, Hospitality & Guest Management, Rental Furniture and Corporate Events are presented as different enquiries with distinct needs.
-3. **Use visual service categories.** Wedding stages, haldi and mehendi décor, home functions, corporate setups and seating arrangements are supported with imagery and concise explanations so visitors can identify the relevant service.
-4. **Show the planning process.** The website explains a sequence covering the client's vision, concept planning, design and coordination, on-site setup and event execution, which helps make a complex service more approachable.
-5. **Make experience and scope visible.** The About page explains the business's history and event-management approach; the site also presents vendor coordination, styling and hospitality as connected capabilities.
-6. **Highlight the gallery and portfolio.** Visitors can inspect categories such as wedding styling, destination celebrations, corporate events and furniture setups before contacting the team. Individual photo authenticity should be assessed separately from design-stage illustrations.
-7. **Give corporate clients a dedicated route.** A standalone corporate-events page addresses conferences, launches, seminars, exhibitions and employee events instead of burying them among wedding pages.
-8. **Make contact easy.** The homepage promotes direct calls, WhatsApp and quote/enquiry actions; the public contact page lists a Pune address and the business email.
+1. **Start with a clear event-focused headline.** The homepage positions Seher Event around wedding planning in Pune while also presenting destination celebrations, corporate events and furniture rental.
+2. **Separate six main service journeys.** Wedding & Celebration Décor, Destination Wedding Décor, Wedding Home Décor, Hospitality & Guest Management, Rental Furniture and Corporate Events are presented as different enquiry paths.
+3. **Use visual service categories.** Wedding stages, haldi and mehendi décor, home functions, corporate setups and seating arrangements are supported with imagery and concise explanations.
+4. **Show the planning process.** The website explains a sequence covering the client's vision, concept planning, design and coordination, on-site setup and event execution.
+5. **Make experience and scope visible.** About-oriented content explains the business's history and event-management approach while connecting vendor coordination, styling and hospitality.
+6. **Highlight the gallery and portfolio.** Visitors can inspect wedding styling, destination celebrations, corporate events and furniture setups before contacting the team. Individual photo authenticity should be assessed separately from design-stage illustrations.
+7. **Give corporate clients a dedicated route.** Conferences, launches, seminars, exhibitions and employee events are presented separately from wedding services.
+8. **Make contact easy.** Direct calls, WhatsApp and quote/enquiry actions reduce friction when visitors are ready to discuss an event.
 
-## Original project visuals
+## Website and project images
 
-The assets below are **saved Seher Event design and portfolio materials**, converted to WebP for this repository. They include website mockups, long-page concepts, a logo treatment and a promotional before-and-after composition. These should **not** be described as independently verified production screenshots, completed real-world events or performance results.
+### Official website mockup
 
-### Website transformation presentation
+The following Tech Conversion portfolio mockup presents Seher Event as a polished wedding and event-management website project.
 
-![Seher Event conceptual before and after website redesign](images/seher-event-before-after-showcase.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/seher-event-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/seher-event-website-mockup.webp" alt="Seher Event responsive wedding and event management website mockup" width="100%" />
+  </a>
+</p>
 
-The original comparison artwork contrasts a simpler website presentation with a more photographic, structured and brand-led design. The labelled benefits in the illustration are creative direction, **not analytics-based outcomes**.
+*Click the image to open the full-resolution mockup.*
 
-### Brand presentation
+### Website transformation overview
 
-![Seher Event navy and gold logo treatment](images/seher-event-logo-presentation.webp)
+The following Tech Conversion comparison presents the earlier and redesigned Seher Event website side by side.
 
-### Desktop and mobile homepage design
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/seher-event-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/seher-event-before-after.webp" alt="Seher Event website redesign before and after comparison" width="100%" />
+  </a>
+</p>
 
-![Seher Event desktop and mobile website design mockup](images/seher-event-desktop-mobile-design.webp)
+*The comparison graphic provides a visual overview. The full-page screenshots below show both versions in more detail.*
 
-### Wedding décor landing-page exploration
+## Full-length BEFORE and AFTER comparison
 
-![Seher Event wedding decor long page design](images/seher-event-wedding-decor-page.webp)
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/seher-event-old-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/seher-event-old-website-home-page.webp" alt="Seher Event original website full-page screenshot before redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/seher-event-new-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/seher-event-new-website-home-page.webp" alt="Seher Event redesigned website full-page screenshot after redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Hospitality and guest-experience section
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/seher-event-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/seher-event-new-website-home-page.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
 
-![Seher Event hospitality website design](images/seher-event-hospitality-page.webp)
+### Image provenance
 
-### Corporate events page hero
+The website mockup, before-and-after presentation and full-length website screenshots above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` project gallery and the `IMAGE-SOURCES.md` dependency.
 
-![Seher Event corporate event management section design](images/seher-event-corporate-events-hero.webp)
+These visuals document the website design and presentation, but they are **not evidence of independently measured increases in bookings, enquiries, event contracts, organic traffic, Google rankings, conversion rates, mobile performance or revenue**.
 
-### Wedding home décor presentation
+Event photographs, testimonials, year claims, event totals, ratings and promotional statements visible inside project artwork should be verified separately before being presented as factual business outcomes.
 
-![Seher Event wedding home décor long page](images/seher-event-home-decor-page.webp)
-
-### Process, benefits and gallery sections
-
-![Seher Event event process and website gallery design](images/seher-event-process-gallery-sections.webp)
-
-### Alternate wedding décor page
-
-![Seher Event alternate wedding decor website layout](images/seher-event-wedding-landing-page.webp)
-
-### Wedding pavilion promotional illustration
-
-![Seher Event wedding pavilion creative presentation](images/seher-event-wedding-pavilion-illustration.webp)
-
-*The wedding-pavilion image is an illustrative project asset, not authenticated photography from a client event. For source filenames and usage notes, see [IMAGE-SOURCES.md](IMAGE-SOURCES.md).*
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key visitor journeys
 
@@ -114,7 +143,7 @@ The original comparison artwork contrasts a simpler website presentation with a 
 | Discuss an upcoming event or request a quote | [Contact Us](https://seherevent.com/contact-us/) |
 | View Tech Conversion's project listing | [Tech Conversion Portfolio](https://techconversion.tech/portfolio) |
 
-Destination wedding décor, wedding home décor and hospitality have their own prominently labelled homepage journeys, but their individual production-page URLs have not been independently validated for this README.
+Destination wedding décor, wedding home décor and hospitality are prominently represented in the homepage journey, but their individual production-page URLs have not been independently validated for this README.
 
 ## Standards the website should be reviewed against
 
@@ -123,22 +152,24 @@ These are **appropriate quality references**, not statements that Seher Event ha
 - **[Core Web Vitals](https://web.dev/articles/vitals):** review hero and gallery image weight, mobile loading, responsiveness and layout stability.
 - **[WCAG 2.2 Level AA](https://www.w3.org/TR/WCAG22/):** review menu accessibility, meaningful image text, contrast, form labels, keyboard operation and visible focus.
 - **[Google Search Essentials](https://developers.google.com/search/docs/essentials):** check useful service and location content, indexable pages, descriptive titles and internal links.
-- **[Schema.org](https://schema.org/):** consider accurate LocalBusiness, Service, BreadcrumbList and FAQ-related structured data when supported by the current content and search requirements.
+- **[Schema.org](https://schema.org/):** consider accurate LocalBusiness, Service, BreadcrumbList and FAQ-related structured data when supported by current content and search requirements.
 - **Local contact accuracy:** keep address, phone numbers, business hours and service locations consistent across the website and business listings.
 - **Consent and enquiries:** assess applicable privacy and data-handling practices for contact forms, WhatsApp enquiries, guest details and uploaded event information.
 - **Gallery, testimonial and statistics accuracy:** secure appropriate photo permissions, identify illustrations versus actual event work, and verify testimonials, years and event totals before presenting them as facts.
 
 ## Before and after
 
-A **before-and-after promotional composition** was found in the original Seher Event project-image collection and is included at the top of this README. It visually conveys an intended change from a basic layout to a more immersive, service-organised experience.
+The supplied Tech Conversion assets include a dedicated before-and-after comparison plus full-length screenshots of the earlier and redesigned Seher Event homepages. They support a clear **visual before-and-after presentation of the website project**.
 
-However, the image does not establish the exact dates of the earlier and later live versions, their deployment status or measured improvement. A formal comparison should use dated browser captures and supporting analytics before claiming increased bookings or conversion rates.
+The comparison shows a shift toward a richer photographic experience, clearer service segmentation, stronger visual hierarchy and more visible enquiry actions. These are design observations, not independently measured business outcomes.
+
+The screenshots do **not** independently establish exact deployment dates, A/B testing, booking growth, enquiry increases, higher conversion rates or revenue improvement.
 
 ## Results
 
-**Verifiable public result:** Tech Conversion lists Seher Event as a website project. The public site presents dedicated wedding, corporate and furniture-rental information, an About section, a service gallery, and direct enquiry routes. Saved project images document several rounds of website and brand-presentation work.
+**Verifiable public result:** Tech Conversion lists Seher Event as a website project. The public site presents dedicated wedding, corporate and furniture-rental information, an About section, service imagery and direct enquiry routes. The supplied project media now documents the earlier and redesigned homepage presentations in full.
 
-**Not independently measured:** increases in bookings, enquiries, event contracts, organic traffic, Google rankings, conversion rates, mobile performance or revenue attributable to the website. Event-count figures, star ratings and "more enquiries" statements inside portfolio artwork or company pages are not treated as audited website-development outcomes.
+**Not independently measured:** increases in bookings, enquiries, event contracts, organic traffic, Google rankings, conversion rates, mobile performance or revenue attributable to the website. Event-count figures, star ratings and “more enquiries” statements inside portfolio artwork or company pages are not treated as audited website-development outcomes.
 
 ## About Tech Conversion
 
@@ -146,6 +177,15 @@ However, the image does not establish the exact dates of the earlier and later l
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public portfolio and design record**, not a distribution of production website source code, lead data, venue agreements, event guest lists, personal contact-form submissions or administrator credentials. Seher Event brand assets, event imagery and third-party material remain with their respective rights holders.
+## Repository scope and image credits
+
+This repository is a **public portfolio and design record**, not a distribution of production website source code, lead data, venue agreements, event guest lists, personal contact-form submissions or administrator credentials.
+
+The website mockup, transformation artwork and full-page screenshots are sourced from Tech Conversion's public project media. Seher Event brand assets, event imagery and third-party material remain with their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
